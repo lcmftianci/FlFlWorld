@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="show_setting_table_item_home_button" type="id"/>
+    <item name="show_setting_table_item_exit_touch_button" type="id"/>
+    <item name="show_setting_table_item_back_button" type="id"/>
+    <item name="show_setting_table_item_common_use_button" type="id"/>
+    <item name="show_setting_table_item_screen_lock_button" type="id"/>
+    <item name="show_setting_table_item_notification_button" type="id"/>
+    <item name="show_setting_table_item_phone_button" type="id"/>
+    <item name="show_setting_table_item_page_button" type="id"/>
+    <item name="show_setting_table_item_camera_button" type="id"/>
+    <item name="easy_touch_view_imageview" type="id"/>
+</resources>
